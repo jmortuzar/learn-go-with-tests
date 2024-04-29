@@ -10,7 +10,6 @@ type Point struct {
 	Y float64
 }
 
-const secondHandLength = 90
 const clockCenterX = 150
 const clockCenterY = 150
 
